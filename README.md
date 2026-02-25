@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 
-Aucun pré-requis logiciel n'est nécessaire pour exécuter ce projet en local. Un simple navigateur web (Chrome, Firefox, Edge) suffit.
+Aucun pré-requis logiciel n'est nécessaire pour exécuter ce projet en local. 
 
 ```
 
