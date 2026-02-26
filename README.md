@@ -12,7 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Aucun pré-requis logiciel n'est nécessaire juste un navigateur web 
-Un serveur web comme XAMPP
+Un serveur web comme XAMPP 
+
 
 
 ```
